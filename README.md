@@ -1,6 +1,6 @@
 # TransitHub Overview
 
-![TransitHub Home Screen](link_to_home_screen_image)
+![TransitHub Home Screen](./images/HomeScreen.png)
 
 TransitHub is an interactive mapping application designed to enhance urban navigation. The map on the home screen provides a user-friendly interface where commuters, tourists, and city planners can seamlessly explore various transit options across the city.
 
