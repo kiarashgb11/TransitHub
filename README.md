@@ -43,3 +43,27 @@ An innovative addition is the **Smart Calculator**, which simulates thousands of
 
 ##### Multithreading
 To further enhance performance, we implemented **Multithreading**. This allows TransitHub to utilize multiple processor cores simultaneously, speeding up the computation process and ensuring the application remains responsive under heavy loads. This capability is especially critical when handling complex calculations and ensures that TransitHub delivers quick and reliable results, even in demanding scenarios.
+
+## Screenshots
+
+### Dark Mode
+![Home Screen](./images/DarkMode.PNG)
+
+### Pathfinding By Search
+![Pathfinding Example #1](./images/PathFinderBySearch.gif)
+
+### Directions
+![Directions](./images/Directions.PNG)
+
+### Pathfinding By Clicking
+![Pathfinding Example #2](./images/PathFinder.gif)
+
+### Dynamic Zoom Feature
+![Dynamic Zoom Feature](./images/IntersectionFinder.gif)
+
+### Transit Lines
+![Transit Lines](./images/TransitLines.PNG)
+
+### Clicking Points of Interests (POTs)
+![POTs](./images/ClickingPOI.gif)
+
