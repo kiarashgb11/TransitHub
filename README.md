@@ -50,20 +50,35 @@ To further enhance performance, we implemented **Multithreading**. This allows T
 ![Home Screen](./images/DarkMode.PNG)
 
 ### Pathfinding By Search
-![Pathfinding Example #1](./images/PathFinderBySearch.gif)
+<p align="center">
+  <img src="./images/PathFinderBySearch.gif" alt="Pathfinding Example #1" width="800px">
+</p>
 
 ### Directions
 ![Directions](./images/Directions.PNG)
 
 ### Pathfinding By Clicking
-![Pathfinding Example #2](./images/PathFinder.gif)
+<p align="center">
+  <img src="./images/PathFinder.gif" alt="Pathfinding Example #2" width="800px">
+</p>
 
 ### Dynamic Zoom Feature
-![Dynamic Zoom Feature](./images/IntersectionFinder.gif)
+<p align="center">
+  <img src="./images/IntersectionFinder.gif" alt="Dynamic Zoom Feature" width="800px">
+</p>
 
 ### Transit Lines
 ![Transit Lines](./images/TransitLines.PNG)
 
 ### Clicking Points of Interests (POTs)
-![POTs](./images/ClickingPOI.gif)
+<p align="center">
+  <img src="./images/ClickingPOI.gif" alt="POTs" width="800px">
+</p>
+
+
+---
+
+### Important Notice
+
+Due to plagiarism concerns and the fact that this project was completed as part of a school assignment, I am unable to share the code publicly. However, if you would like to see and review the code with me, please feel free to email me at [kiarashalirezaei@gmail.com](mailto:kiarashalirezaei@gmail.com), and I'll be happy to show it to you.
 
